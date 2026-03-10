@@ -2,6 +2,7 @@
 name: security-check
 description: 🔒 Pre-installation security verification for external code and dependencies. Automated risk analysis for GitHub repos, npm packages, PyPI libraries, and shell scripts. Integrates CVE databases (Snyk, Safety DB) to detect vulnerabilities before you install. Shows risk level (✅ safe / ⚠️ review / ❌ dangerous) with actionable recommendations. First comprehensive security skill for OpenClaw — protect your system before downloading untrusted code.
 tags: security, dependencies, vulnerability, safety, audit, npm, pypi, github, cve, snyk, supply-chain, pre-install
+license: MIT
 ---
 
 # Security Check
